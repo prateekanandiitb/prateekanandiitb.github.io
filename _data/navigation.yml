@@ -9,7 +9,7 @@
 
 main:
   - title: "Home"
-    url: /publications/
+    url: /home/
   
   - title: "Group"
     url: "/group/"
