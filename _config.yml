@@ -26,10 +26,10 @@ author:
   avatar           : "IMG_20250206_142307.jpg"
   name             : "Prateek Anand"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Assistant Profesor"
+  location         : "Powai, Mumbai"
+  employer         : "Indian Institute of Technology Bombay"
+  uri              : "https://www.me.iitb.ac.in/faculty/prateek"
   email            : "none@example.org" 
 
   # Academic websites
