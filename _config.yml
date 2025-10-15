@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Particles@IITB"
 title_separator          : "-"
 name                     : &name "Prateek Anand"
-description              : &description "My research focuses on microhydrodynamics, inertial migration, and anisotropic particle motion."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant Professor, Department of Mechanical Engineering, IIT Bombay"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://prateekanandiitb.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
