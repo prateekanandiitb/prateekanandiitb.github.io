@@ -10,6 +10,7 @@
 locale                   : "en-US"
 theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "air"
+enable_theme_toggle      : false
 #site_theme               : "air"  
 title                    : "Particles@IITB"
 title_separator          : "-"
