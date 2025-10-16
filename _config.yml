@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#site_theme               : "air" # Currently available options are "default", "air"
 minimal_mistakes_skin: "air"
 title                    : "Particles@IITB"
 title_separator          : "-"
