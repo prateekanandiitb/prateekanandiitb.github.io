@@ -14,24 +14,5 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<style>
-/* Hide theme toggle (covers common selector names) */
-button[aria-label="Toggle theme"],
-button[aria-label="Toggle color mode"],
-button.theme-toggle,
-.color-mode-toggle,
-.theme-toggle,
-.toggle-theme,
-.toggle-color-mode {
-  display: none !important;
-  visibility: hidden !important;
-}
-
-/* Force light-mode rendering even if visitor prefers dark */
-@media (prefers-color-scheme: dark) {
-  :root { color-scheme: light !important; }
-  html, body { background-color: #fff !important; color: #111 !important; }
-}
-</style>
 
 <!-- end custom head snippets -->
