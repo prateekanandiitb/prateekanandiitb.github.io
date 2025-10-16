@@ -12,7 +12,7 @@ main:
     url: /
   
   - title: "Group"
-    url: /group/
+    url: /_group/
 
   - title: "Research"
     url: /research/   
