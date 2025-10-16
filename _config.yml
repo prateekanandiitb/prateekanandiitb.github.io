@@ -10,7 +10,7 @@
 locale                   : "en-US"
 theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "air"
-site_theme               : "air"  
+#site_theme               : "air"  
 title                    : "Particles@IITB"
 title_separator          : "-"
 name                     : &name "Prateek Anand"
