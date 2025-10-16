@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div align="center">
-  <img src="/images/profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:1em;">
+  <img src="/images/github_profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:1em;">
   <h2 style="font-size:1.8em; margin-bottom:0.2em;">Dr. Prateek Anand</h2>
   <p style="font-size:1.2em; color:#444;">Assistant Professor, Department of Mechanical Engineering, IIT Bombay</p>
   #<p style="font-size:1.1em; color:#666;">Computational Microhydrodynamics Group</p>
