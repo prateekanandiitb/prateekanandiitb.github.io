@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air"
 title                    : "Particles@IITB"
 title_separator          : "-"
 name                     : &name "Prateek Anand"
