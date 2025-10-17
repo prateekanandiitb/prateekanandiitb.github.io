@@ -15,9 +15,20 @@ author_profile: true
 
 ### Principal Investigator
 **Dr. Prateek Anand** — Assistant Professor, Department of Mechanical Engineering, IIT Bombay.
+---
 
-Research interests: microhydrodynamics, inertial migration, particle–fluid interactions, computational fluid mechanics.
-
+<div style="display:flex; flex-wrap:wrap; gap:1.5rem; justify-content:center;">
+##Current Students
+<!-- ===== Example student 1 ===== -->
+  <div style="width:180px; text-align:center;">
+    <img src="/images/test.jpg"
+         alt="Laptop"
+         style="width:100%; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.12); object-fit:cover; aspect-ratio:1/1;"
+         onerror="this.style.display='none'">
+    <strong>Amit Sharma</strong><br>
+    <em>PhD Student (2025– )</em><br>
+    Inertial migration of spheroids
+  </div>
 ---
 
 ### Future members
