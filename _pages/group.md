@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div align="center" markdown="1">
-  <img src="/images/profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:0.6em;" onerror="this.style.display='none'">
+  <img src="/images/github_profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:0.6em;" onerror="this.style.display='none'">
   <h2 style="margin:0.2rem 0 0.2rem;">Dr. Prateek Anand</h2>
   <p style="margin:0;color:#555">Assistant Professor, Dept. of Mechanical Engineering, IIT Bombay</p>
 </div>
