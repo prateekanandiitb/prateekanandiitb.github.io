@@ -7,10 +7,10 @@ permalink: /
 <!-- HERO: replace /images/hero.jpg with your visualization (optional) -->
 <div style="display:flex; align-items:center; gap:1.25rem; margin-bottom:1.25rem; flex-wrap:wrap;">
   <div style="flex:1; min-width:240px;">
-    <h1 style="margin:0 0 0.5rem 0;">Computational Microhydrodynamics Group</h1>
+    <h1 style="margin:0 0 0.5rem 0;">Microhydrodynamics Group</h1>
     <p style="margin:0 0 0.6rem 0; color:#444; max-width:45rem;">
       We study the motion and transport of anisotropic particles and suspended phases in confined and inertial flows.
-      Our work combines analytical theory, numerical simulation, and data-driven analysis to address problems in microfluidics,
+      Our work combines analytical theory and numerical simulation to address problems in microfluidics,
       biomedical flows, and industrial suspensions.
     </p>
     <p style="margin:0;">
