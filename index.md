@@ -6,7 +6,7 @@ permalink: /
 
 <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap;">
   <div style="flex:1;min-width:220px">
-    <h1 style="margin:0 0 0.2rem 0"> Microhydrodynamics Group</h1>
+    <h1 style="margin:0 0 0.2rem 0">Microhydrodynamics Group</h1>
     <p style="margin:0 0 0.6rem 0; max-width:50rem; color:#444">
       We study transport and dynamics of anisotropic particles in confined and inertial flows,
       combining theory, numerical simulation and data-driven analysis for microfluidics and suspension mechanics.
@@ -26,6 +26,8 @@ permalink: /
 ---
 
 ## Latest highlights
-- **Oct 2025** — To be announced
+- **Oct 2025** — Paper accepted in *Journal of Fluid Mechanics*.  
+- **Jul 2025** — CFD demo code released on GitHub.  
+- **May 2025** — New PhD student joined the group.
 
 [All news →](/news/)
