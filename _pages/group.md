@@ -1,26 +1,24 @@
 ---
-layout: archive
+layout: page
 title: "Group"
 permalink: /group/
 author_profile: true
 ---
 
-<div align="center">
-  <img src="/images/github_profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:1em;">
-  <h2 style="font-size:1.8em; margin-bottom:0.2em;">Dr. Prateek Anand</h2>
-  <p style="font-size:1.2em; color:#444;">Assistant Professor, Department of Mechanical Engineering, IIT Bombay</p>
+<div align="center" markdown="1">
+  <img src="/images/profile.jpg" alt="Prateek Anand" style="width:220px; border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:0.6em;" onerror="this.style.display='none'">
+  <h2 style="margin:0.2rem 0 0.2rem;">Dr. Prateek Anand</h2>
+  <p style="margin:0;color:#555">Assistant Professor, Dept. of Mechanical Engineering, IIT Bombay</p>
 </div>
 
 ---
 
 ### Principal Investigator
-- **Prateek Anand**  
-  *Assistant Professor, Department of Mechanical Engineering, IIT Bombay*  
-  Research interests: microhydrodynamics, inertial migration, particle–fluid interactions, and computational fluid mechanics.
+**Dr. Prateek Anand** — Assistant Professor, Department of Mechanical Engineering, IIT Bombay.
+
+Research interests: microhydrodynamics, inertial migration, particle–fluid interactions, computational fluid mechanics.
 
 ---
 
-### 👥 Future Members
-The group is in its formative phase.  
-Opportunities for motivated **undergraduate**, **master’s**, and **doctoral** students will be posted here soon.  
-If you are interested in **computational or theoretical studies in fluid dynamics**, please reach out via [email](/contact/) or directly at *prateek.anand [at] iitb [dot] ac [dot] in*.
+### Future members
+Opportunities for motivated undergraduate, MTech and PhD students will be posted here. Contact: <a href="mailto:prateek.anand@iitb.ac.in">prateek.anand@iitb.ac.in</a>
