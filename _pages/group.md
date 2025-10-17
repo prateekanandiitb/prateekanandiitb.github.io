@@ -33,7 +33,7 @@ author_profile: true
          onerror="this.style.display='none'">
     <strong>Laptop</strong><br>
     <em>PhD Student (2025– )</em><br>
-    Inertial migration of spheroids
+    laptop1[at]iitb.ac.in
   </div>
 
   <!-- ===== Student 2 ===== -->
@@ -44,7 +44,7 @@ author_profile: true
          onerror="this.style.display='none'">
     <strong>Laptop</strong><br>
     <em>PhD Student (2025– )</em><br>
-    Particle dynamics in viscoelastic suspensions
+    laptop1[at]iitb.ac.in
   </div>
 
 </div>
