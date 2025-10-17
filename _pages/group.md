@@ -21,4 +21,7 @@ Research interests: microhydrodynamics, inertial migration, particle–fluid int
 ---
 
 ### Future members
-Opportunities for motivated undergraduate, MTech and PhD students will be posted here. Contact: <a href="mailto:prateek.anand@iitb.ac.in">prateek.anand@iitb.ac.in</a>
+For collaboration or student opportunities, please reach out at  
+<a href="mailto:&#112;&#114;&#97;&#116;&#101;&#101;&#107;&#46;&#97;&#110;&#97;&#110;&#100;&#64;&#105;&#105;&#116;&#98;&#46;&#97;&#99;&#46;&#105;&#110;">
+&#112;&#114;&#97;&#116;&#101;&#101;&#107;&#46;&#97;&#110;&#97;&#110;&#100;&#64;&#105;&#105;&#116;&#98;&#46;&#97;&#99;&#46;&#105;&#110;
+</a>
