@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 <!-- ==================== PI SECTION ==================== -->
-## Principal Investigator
+
 <div align="center" markdown="1">
+  ## Principal Investigator
   <img src="/images/github_profile.jpg"
        alt="Prateek Anand"
        style="width:220px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:0.6em; object-fit:cover;"
@@ -56,8 +57,7 @@ author_profile: true
 
 ## Alumni
 
-<div style="display:flex; flex-wrap:wrap; gap:1.5rem; justify-content:center;">
-
+<div style="display:flex; flex-direction:column; gap:2rem; max-width:700px; margin:auto;">
   <div style="width:180px; text-align:center; color:#666;">
     <img src="/images/test.jpg"
          alt="Laptop"
