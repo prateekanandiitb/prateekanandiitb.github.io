@@ -78,4 +78,4 @@ Email: <a href="mailto:prateek.anand@iitb.ac.in">prateek.anand@iitb.ac.in</a>
 ---
 
 <!-- Optional small footer CTA -->
-<p style="margin-top:1.25rem; color:#666; font-size:0.95rem;">Interested in projects (theory, simulation, experiment)? See <a href="/group/">how to join</a> or email prateek.anand@iitb.ac.in.</p>
+<p style="margin-top:1.25rem; color:#666; font-size:0.95rem;">Interested in projects (theory, simulation, experiment)? See <a href="/group/">how to join</a> or email prateek[dot]anand[at]iitb[dot]ac[at]in.</p>
