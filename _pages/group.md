@@ -23,8 +23,7 @@ author_profile: true
 
 ## Current Students
 
-<div style="display:flex; flex-wrap:wrap; gap:1.5rem; justify-content:center; margin-top:1rem;">
-
+<div style="display:flex; flex-direction:column; gap:2rem; max-width:700px; margin:auto;">
   <!-- Student 1 -->
   <div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap;">
     <img src="/images/test.jpg"
