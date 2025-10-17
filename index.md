@@ -1,12 +1,12 @@
 ---
 layout: home
-title: "Computational Microhydrodynamics Group"
+title: "Microhydrodynamics Group"
 permalink: /
 ---
 
 <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap;">
   <div style="flex:1;min-width:220px">
-    <h1 style="margin:0 0 0.2rem 0">Computational Microhydrodynamics Group</h1>
+    <h1 style="margin:0 0 0.2rem 0"> Microhydrodynamics Group</h1>
     <p style="margin:0 0 0.6rem 0; max-width:50rem; color:#444">
       We study transport and dynamics of anisotropic particles in confined and inertial flows,
       combining theory, numerical simulation and data-driven analysis for microfluidics and suspension mechanics.
