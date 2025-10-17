@@ -20,7 +20,7 @@ main:
   - title: "Publications"
     url: /publications/
   
-  -title: "News"
+  - title: "News"
     url: /news/
 
   - title: "Contact"
