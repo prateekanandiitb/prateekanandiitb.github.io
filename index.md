@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: "Welcome to Particles@IITB"
-author_profile: true
+author_profile: false
 ---
 <div style="max-width: 840px; margin: 0 auto; padding-left: 20px; padding-right: 20px; box-sizing: border-box;">
   <div style="flex:1;min-width:220px">
