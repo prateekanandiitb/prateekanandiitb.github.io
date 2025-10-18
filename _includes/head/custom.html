@@ -14,4 +14,29 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Add consistent left margin to all page content -->
+<style>
+/* Apply left margin/padding to main content areas */
+.page__content,
+.archive,
+.page,
+.site-main,
+.wrapper {
+  padding-left: 40px !important;
+  margin-left: 40px !important;
+}
+
+/* For narrow screens (mobiles), remove the margin so it fits well */
+@media screen and (max-width: 768px) {
+  .page__content,
+  .archive,
+  .page,
+  .site-main,
+  .wrapper {
+    padding-left: 15px !important;
+    margin-left: 0 !important;
+  }
+}
+</style>
+
 <!-- end custom head snippets -->
