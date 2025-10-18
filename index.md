@@ -3,6 +3,7 @@ layout: home
 title: "Microhydrodynamics Group"
 permalink: /
 sidebar: true
+author_profile_true
 ---
 
 <div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap;">
