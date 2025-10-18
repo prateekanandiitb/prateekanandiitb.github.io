@@ -8,9 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# theme                    : minimal-mistakes-jekyll
-# minimal_mistakes_skin    : "air"
-site_theme               : "air"  
+# Use Minimal Mistakes theme (remote theme hosted on GitHub)
+remote_theme             : "mmistakes/minimal-mistakes"   # switch to Minimal Mistakes theme
+# Choose a skin provided by Minimal Mistakes (examples: "air", "contrast", "default", "dark")
+minimal_mistakes_skin    : "air"
 title                    : "Particles@IITB"
 title_separator          : "-"
 name                     : &name "Prateek Anand"
