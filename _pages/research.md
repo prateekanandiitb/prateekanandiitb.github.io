@@ -2,6 +2,7 @@
 layout: page
 title: "Research"
 permalink: /research/
+sidebar: true
 ---
 
 ## Research themes
@@ -14,5 +15,3 @@ Short description: orientation dynamics, tumbling and lift of rods/spheroids/fib
 
 ### Computational methods & tools
 Short description: efficient solvers and reproducible code (open-source notebooks & examples).
-
----
