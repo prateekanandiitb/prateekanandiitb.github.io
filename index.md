@@ -5,7 +5,6 @@ title: "Welcome to Particles@IITB"
 author_profile: true
 ---
 <div style="max-width: 760px; margin: 0 auto; padding-left: 40px; padding-right: 20px; box-sizing: border-box;">
-###########<div style="display:flex;align-items:center;gap:1rem;flex-wrap:wrap;">
   <div style="flex:1;min-width:220px">
     <h1 style="margin:0 0 0.2rem 0"> Microhydrodynamics Group</h1>
     <p style="margin:0 0 0.6rem 0; max-width:50rem; color:#444">
