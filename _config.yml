@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-#theme                    : minimal-mistakes-jekyll
-#minimal_mistakes_skin    : "air"
+# theme                    : minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "air"
 site_theme               : "air"  
 title                    : "Particles@IITB"
 title_separator          : "-"
@@ -31,7 +31,7 @@ author:
   bio              : "Assistant Professor"
   location         : "Powai, Mumbai"
   employer         : "Indian Institute of Technology Bombay"
-  uri              : "https://www.me.iitb.ac.in/faculty/prateek"
+  url              : "https://www.me.iitb.ac.in/faculty/prateek"
   email            : "prateek [dot] anand [at] iitb [dot] ac [dot] in" 
 
   # Academic websites
