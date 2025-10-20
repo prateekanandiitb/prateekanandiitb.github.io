@@ -8,10 +8,10 @@ profile:
   align: right
   image: test.jpg
   image_circular: false # crops the image to make it circular
- # more_info: >
- #   <p>555 your office number</p>
- #   <p>123 your address street</p>
- #   <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -53,8 +53,9 @@ We combine theory, computation, and experiments to develop predictive models tha
 
 We believe that impactful engineering research arises from **rigorous fundamentals** connected to **technological relevance**.  
 Our approach emphasizes:
-- Integration of analytical, computational, and experimental insights.  
-- Open, reproducible research practices.  
+
+- Integration of analytical, computational, and experimental insights.
+- Open, reproducible research practices.
 - Collaboration across disciplines — spanning applied mathematics, materials science, and bioengineering.
 
 Our long-term vision is to **translate fundamental fluid and thermal science into tangible technologies** that address challenges in energy, environment, and health.
