@@ -11,7 +11,7 @@ nav_order: 5
   <!-- Left column: text -->
   <div style="flex: 1 1 55%; min-width: 260px;">
     <p>
-      Room <strong>S17B</strong>,<br>
+      Room <strong>S17-B</strong>,<br>
       Department of Mechanical Engineering,<br>
       Indian Institute of Technology Bombay,<br>
       Powai, Mumbai, Maharashtra – 400076, India.
