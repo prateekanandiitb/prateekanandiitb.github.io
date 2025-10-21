@@ -6,21 +6,34 @@ nav: true
 nav_order: 5
 ---
 
-**Office:** 
-Room ***S17B***,
-Department of Mechanical Engineering,
-Indian Institute of Technology Bombay,
-Powai, Mumbai, Maharashtra – 400076, India.
+<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-top: 16px; align-items: flex-start;">
 
-**Email:** prateek[dot]anand[at]iitb.ac.in
+  <!-- Left column: text -->
+  <div style="flex: 1 1 55%; min-width: 260px;">
+    <p>
+      Room <strong>S17B</strong><br>
+      Department of Mechanical Engineering<br>
+      Indian Institute of Technology Bombay<br>
+      Powai, Mumbai, Maharashtra – 400076, India
+    </p>
 
-### 🌳 Our Campus
+    <p>
+      <strong>Email:</strong>
+      prateek[dot]anand[at]iitb.ac.in
+    </p>
+  </div>
 
-<img src="Campus_pic.jpg" 
-     alt="IIT Bombay Campus" 
-     style="width:100%; border-radius:12px; margin-top:20px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+  <!-- Right column: campus image -->
+  <div style="flex: 0 0 40%; min-width: 240px;">
+    <img src="Campus_pic.jpg"
+         alt="IIT Bombay Campus"
+         loading="lazy"
+         style="width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+    <p style="text-align:center; font-style:italic; font-size:0.9rem; color:gray; margin-top:8px;">
+      View of the IIT Bombay campus near the Mechanical Engineering Department
+    </p>
+  </div>
 
-<p style="text-align:right; font-style:italic; font-size:0.9rem; color:gray;">
-View from the IIT main building
-</p>
+</div>
+
 ---
