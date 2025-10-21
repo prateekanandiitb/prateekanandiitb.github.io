@@ -49,13 +49,13 @@ nav_order: 5
     
   </div>
 
-  <!-- Right column: larger campus image -->
-  <div style="flex: 0 0 50%; min-width: 300px; max-width: 650px;">
+  <!-- Right column: campus image -->
+  <div style="flex: 0 0 40%; min-width: 240px;">
     <img src="/assets/img/Campus_pic.jpg"
          alt="IIT Bombay Campus"
          loading="lazy"
-         style="width:100%; height:auto; border-radius:14px; box-shadow:0 3px 12px rgba(0,0,0,0.2);">
-    <p style="text-align:center; font-style:italic; font-size:0.9rem; color:gray; margin-top:10px;">
+         style="width:100%; height:auto; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+    <p style="text-align:center; font-style:italic; font-size:0.9rem; color:gray; margin-top:8px;">
       View of the IIT Bombay campus near the Mechanical Engineering Department
     </p>
   </div>
