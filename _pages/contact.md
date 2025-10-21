@@ -21,6 +21,32 @@ nav_order: 5
       <strong>Email:</strong>
       prateek[dot]anand[at]iitb.ac.in
     </p>
+    
+    <hr style="margin: 20px 0;">
+
+    <!-- Professional / Academic Links -->
+    <h3>External Links</h3>
+    <ul style="list-style:none; padding-left:0; margin-top:10px; line-height:1.8;">
+
+    <li>
+      <a href="https://scholar.google.com/citations?user=qdlSY4IAAAAJ&hl=en" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i> Google Scholar
+      </a>
+    </li>
+
+    <li>
+      <a href="{{ '/assets/pdf/CV_Prateek_Anand.pdf' | relative_url }}" target="_blank" rel="noopener">
+        <i class="fas fa-file-pdf"></i> Curriculum Vitae (PDF)
+      </a>
+    </li>
+
+    <li>
+      <a href="https://www.linkedin.com/in/prateek-anand-78161b49/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+    </li>
+  </ul>
+    
   </div>
 
   <!-- Right column: larger campus image -->
