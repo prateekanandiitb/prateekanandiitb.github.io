@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: github_profile.jpg
-    content: about.md
+    # content: about.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Room S17B,</p>
