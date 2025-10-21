@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-## Contact Us
+## Contact Info
 
 **Office:** 
 Room S17B,  
