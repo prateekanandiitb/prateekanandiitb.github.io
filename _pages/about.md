@@ -65,6 +65,6 @@ Our long-term vision is to **translate fundamental fluid and thermal science int
 ## Collaboration and Opportunities
 
 We collaborate with academic, industrial, and government partners on projects involving **complex fluids**, **thermal systems**, and **particle-scale transport**.  
-For collaboration inquiries or student opportunities, please reach out via the [Contact](/contact/) page.
+For collaboration inquiries or student opportunities, please reach out via the [contact](/contact/) page.
 
 ---
