@@ -52,7 +52,7 @@ nav_order: 5
   <!-- Right column: larger campus image -->
   <div style="flex: 0 0 50%; min-width: 300px; max-width: 650px;">
     <img src="/assets/img/Campus_pic.jpg"
-         alt="IIT Bombay Campus"z
+         alt="IIT Bombay Campus"
          loading="lazy"
          style="width:100%; height:auto; border-radius:14px; box-shadow:0 3px 12px rgba(0,0,0,0.2);">
     <p style="text-align:center; font-style:italic; font-size:0.9rem; color:gray; margin-top:10px;">
