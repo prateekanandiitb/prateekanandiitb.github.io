@@ -26,10 +26,11 @@ announcements:
 #  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
+## About the Lab
 
-Our lab investigates the physics of **fluid–particle interactions**, **inertial migration**, and **thermal transport phenomena** in complex flow environments. We aim to uncover how microscopic flow structures give rise to emergent macroscopic behavior — insights that inform the design of efficient **microfluidic systems**, **heat exchangers**, and **next-generation energy technologies**.
+Our group studies the **dynamics of anisotropic particles** suspended in fluid flows — a key problem in understanding the **microphysics of complex suspensions**. Such systems are found across nature and industry, ranging from **blood and pulp suspensions** all the way to clouds that play a crucial role in the earth-atmosphere radiation budget.
 
-We combine theory, computation, and experiments to develop predictive models that bridge scales and guide practical applications in engineering and science.
+We use **theoretical models** and **numerical simulations** to investigate how particle orientation and motion influence **rheology, viscosity, and optical properties**. Our research lies at the intersection of **fluid mechanics, applied mathematics, and computational physics**, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
 
 ---
 
