@@ -50,15 +50,15 @@ Our approach emphasizes:
 
 - Integration of analytical, computational, and experimental insights.
 - Open, reproducible research practices.
-- Collaboration across disciplines — spanning applied mathematics, materials science, and bioengineering.
+- Collaboration across disciplines — spanning applied mathematics and fluid dynamics
 
-Our long-term vision is to **translate fundamental fluid and thermal science into tangible technologies** that address challenges in energy, environment, and health.
+Our long-term vision is to **translate fundamental fluids into tangible technologies** that address challenges in energy, environment, and health.
 
 ---
 
 ## Collaboration and Opportunities
 
-We collaborate with academic, industrial, and government partners on projects involving **complex fluids**, **thermal systems**, and **particle-scale transport**.  
+We collaborate with academic, industrial, and government partners on projects involving **complex fluids**, **particle-laden flows** and **turbulent suspensions**.  
 For collaboration inquiries or student opportunities, please reach out via the [contact](/contact/) page.
 
 ---
