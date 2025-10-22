@@ -13,10 +13,10 @@ profiles:
     image: github_profile.jpg
     # content: about.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Room S17B,</p>
-      <p>Department of Mechanical Engineering, IIT Bombay,</p>
-      <p>Powai, Mumbai, Maharashtra-400076</p>
+    # more_info: >
+    #  <p>Room S17B,</p>
+    #  <p>Department of Mechanical Engineering, IIT Bombay,</p>
+    #  <p>Powai, Mumbai, Maharashtra-400076</p>
 #  - align: left
 #    image: prof_pic.jpg
 #    content: about_einstein.md
