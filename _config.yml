@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Particles@IITB # the website title (if blank, full name will be used instead)
-first_name: Prateek
-middle_name:
-last_name: Anand
+first_name: Particles
+middle_name: @
+last_name: IITB
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
