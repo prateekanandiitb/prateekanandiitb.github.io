@@ -26,7 +26,6 @@ announcements:
 #  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
-## About the Lab
 
 Our group studies the **dynamics of anisotropic particles** suspended in fluid flows — a key problem in understanding the **microphysics of complex suspensions**. Such systems are found across nature and industry, ranging from **blood and pulp suspensions** all the way to clouds that play a crucial role in the earth-atmosphere radiation budget.
 
@@ -36,17 +35,11 @@ We use **theoretical models** and **numerical simulations** to investigate how p
 
 ## Research Themes
 
-- **Inertial Migration and Particle Dynamics**  
-  Exploring how rigid and deformable particles migrate and self-organize in confined and wall-bounded flows, with implications for microfluidic manipulation and diagnostics.
+- **Migration of particles in channel flows**  
 
-- **Micro- and Mesoscale Transport Phenomena**  
-  Studying heat, mass, and momentum transfer in microchannels and structured surfaces to enhance performance in thermal management and energy devices.
-
-- **Computational Fluid Mechanics**  
-  Developing high-fidelity simulation frameworks and reduced-order models for complex, multiphase, and particle-laden flows.
-
-- **Translational Thermal Science**  
-  Bridging fundamental discoveries in fluid and thermal sciences with practical technology — from microfluidic devices to advanced cooling systems.
+- **Motion of anisotropic particles in turbulence**  
+  
+- **Beyond perturbation: Homotopy Analysis methods in fluid dynamics**  
 
 ---
 
