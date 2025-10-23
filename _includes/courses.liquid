@@ -4,7 +4,7 @@ Expect a `course` variable in scope (when looping in teaching.md)
 {%- endcomment -%}
 
 <div class="col mb-4">
-  <div class="card h-100 shadow-sm">
+  <div class="card h-100 hoverable">
     {% if course.image %}
       <a href="{{ course.url | relative_url }}">
         <img src="{{ course.image | relative_url }}" class="card-img-top" alt="{{ course.title }}">
