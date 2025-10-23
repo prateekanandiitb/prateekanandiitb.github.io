@@ -62,7 +62,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-particle-migration-in-channel-flows",
           title: 'Particle migration in channel flows',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
