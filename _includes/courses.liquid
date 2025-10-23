@@ -1,0 +1,41 @@
+{%- comment -%}
+Course card include
+Expect a `course` variable in scope (when looping in teaching.md)
+{%- endcomment -%}
+
+<div class="col mb-4">
+  <div class="card h-100 shadow-sm">
+    {% if course.image %}
+      <a href="{{ course.url | relative_url }}">
+        <img src="{{ course.image | relative_url }}" class="card-img-top" alt="{{ course.title }}">
+      </a>
+    {% endif %}
+    <div class="card-body d-flex flex-column">
+      <h5 class="card-title">
+        <a href="{{ course.url | relative_url }}" class="stretched-link text-reset">{{ course.title }}</a>
+      </h5>
+
+      {% if course.instructors %}
+        <p class="card-subtitle mb-2 text-muted" style="font-size:0.9rem;">
+          {% for inst in course.instructors %}{{ inst }}{% if forloop.last == false %}, {% endif %}{% endfor %}
+        </p>
+      {% endif %}
+
+      {% if course.description %}
+        <p class="card-text" style="flex:1 1 auto;">{{ course.description }}</p>
+      {% endif %}
+
+      {% if course.materials %}
+        <p style="margin-top:8px; font-size:0.9rem;">
+          <i class="fas fa-folder-open"></i>
+          <small>
+            Materials:
+            {% for m in course.materials %}
+              <a href="{{ m.url | relative_url }}" target="_blank" rel="noopener">{{ m.title }}</a>{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+          </small>
+        </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
