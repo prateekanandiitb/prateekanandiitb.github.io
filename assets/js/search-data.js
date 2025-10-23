@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "courses-lab-me-501",
+          title: 'Lab (ME 501)',
+          description: "Heat transfer lab course",
+          section: "Courses",handler: () => {
+              window.location.href = "/teaching/2026-lab/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
