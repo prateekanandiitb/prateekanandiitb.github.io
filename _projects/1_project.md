@@ -38,5 +38,3 @@ Phase diagram
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
-{% endraw %}
