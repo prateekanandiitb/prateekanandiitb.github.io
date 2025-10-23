@@ -5,7 +5,7 @@ title: Particle migration in channel flows
 img: assets/img/Schematic.png
 importance: 1
 category: work
-related_publications: true
+# related_publications: true
 ---
 
 Phase diagram
