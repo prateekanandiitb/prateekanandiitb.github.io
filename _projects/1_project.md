@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Particle migration in channel flows
-description: with background image
+# description: with background image
 img: assets/img/Schematic.png
 importance: 1
 category: work
