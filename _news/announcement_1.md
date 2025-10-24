@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined IIT Bombay as an assistant professor in the department of Mechanical Engineering. To new beginnings!
