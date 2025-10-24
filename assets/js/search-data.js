@@ -57,14 +57,6 @@ ninja.data = [{
             },},{id: "news-joined-iit-bombay-as-an-assistant-professor-in-the-department-of-mechanical-engineering-to-new-beginnings",
           title: 'Joined IIT Bombay as an assistant professor in the department of Mechanical Engineering....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
           section: "News",},{id: "projects-particle-migration-in-channel-flows",
           title: 'Particle migration in channel flows',
           description: "",
