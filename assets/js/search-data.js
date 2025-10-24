@@ -54,8 +54,8 @@ ninja.data = [{
           description: "Heat transfer lab course",
           section: "Courses",handler: () => {
               window.location.href = "/teaching/2026-lab/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-joined-iit-bombay-as-an-assistant-professor-in-the-department-of-mechanical-engineering-to-new-beginnings",
+          title: 'Joined IIT Bombay as an assistant professor in the department of Mechanical Engineering....',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
