@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Particle-laden turbulent
+title: Particle-laden turbulent flows
 # description: with background image
 img: assets/img/Schematic.png
 importance: 2
 category: work
 # related_publications: true
 ---
-
-Phase diagram
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
