@@ -21,6 +21,10 @@ nav_order: 5
       <strong>Email:</strong>
       prateek[dot]anand[at]iitb.ac.in
     </p>
+    <p>
+      <strong>Phone(Office):</strong>
+      022-2576-7542
+    </p>
     
     <hr style="margin: 20px 0;">
 
