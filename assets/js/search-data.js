@@ -62,8 +62,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-particle-laden-turbulent",
-          title: 'Particle-laden turbulent',
+            },},{id: "projects-particle-laden-turbulent-flows",
+          title: 'Particle-laden turbulent flows',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
