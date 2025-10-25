@@ -2,7 +2,7 @@
 layout: page
 title: Particle-laden turbulent flows
 # description: with background image
-img: assets/img/Schematic.png
+img: assets/img/D2.png
 importance: 2
 category: work
 # related_publications: true
