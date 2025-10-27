@@ -49,11 +49,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "courses-lab-me-501",
-          title: 'Lab (ME 501)',
-          description: "Heat transfer lab course",
-          section: "Courses",handler: () => {
-              window.location.href = "/teaching/2026-lab/";
             },},{id: "news-joined-iit-bombay-as-an-assistant-professor-in-the-department-of-mechanical-engineering-to-new-beginnings",
           title: 'Joined IIT Bombay as an assistant professor in the department of Mechanical Engineering....',
           description: "",
