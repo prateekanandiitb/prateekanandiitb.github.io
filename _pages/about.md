@@ -35,7 +35,7 @@ We use **theoretical models** and **numerical simulations** to investigate how p
 
 ## Research Themes
 
-- **Migration of particles in channel flows**  
+- **Hydrodynamics of droplets in a channel flow**  
 
 - **Motion of anisotropic particles in turbulence**  
   
