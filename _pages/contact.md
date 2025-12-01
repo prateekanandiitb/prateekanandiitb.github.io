@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; margin-top: 16px; align-items: flex-start;">
