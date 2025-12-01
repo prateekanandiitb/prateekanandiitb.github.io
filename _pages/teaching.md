@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Course Materials
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 We teach courses at undergraduate and graduate levels. Below are recent offerings.
