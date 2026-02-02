@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-joined-iit-bombay-as-an-assistant-professor-in-the-department-of-mechanical-engineering-to-new-beginnings",
+        },{id: "news-joined-iit-bombay-as-an-assistant-professor-in-the-department-of-mechanical-engineering-to-new-beginnings",
           title: 'Joined IIT Bombay as an assistant professor in the department of Mechanical Engineering....',
           description: "",
           section: "News",},{id: "projects-particle-migration-in-channel-flows",
