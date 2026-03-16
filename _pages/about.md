@@ -34,10 +34,10 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 ## Research Themes 
 (current, but not limited to)
 
-- **Microhydrodynamics & low Reynolds number flows**  
+- **Microhydrodynamics & low Reynolds number flows**: From first principles, using applied mathematics to study the motion of particles in canonical flows. 
 - **Inertial migration of particles in channel flows**
 - **Motion of anisotropic particles in Turbulence**
-- **Beyond perturbation: Homotopy Analysis methods in fluid dynamics**
+- **Homotopy Analysis methods in fluid dynamics**
   
 ---
 
