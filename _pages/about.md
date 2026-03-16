@@ -27,6 +27,10 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
+<div style="display:flex; gap:40px; align-items:flex-start;">
+
+<div style="flex:3;">
+
 Our group studies the dynamics of particles suspended in fluid flows — a key problem in understanding the **microphysics** of complex suspensions. Such systems are found across nature and industry, ranging from blood and pulp suspensions all the way to Cirrus clouds that play a crucial role in the earth-atmosphere radiation budget. We use theoretical models and numerical simulations to investigate how particle motion and orientation influence the bulk properties of the suspension. Our research lies at the intersection of fluid mechanics, applied mathematics and computational physics, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
 
 ---
@@ -47,3 +51,16 @@ I am always interested in motivated students who wish to work on fundamental pro
 Prospective students interested in working with me are encouraged to [contact](/contact/) me with a brief description of their research interests and a CV.
 
 ---
+</div>
+
+<div style="flex:1; padding-left:20px; border-left:1px solid #ddd;">
+  
+## News
+
+{% if page.announcements.enabled %}
+  {% include announcements.liquid %}
+{% endif %}
+
+</div>
+</div>
+
