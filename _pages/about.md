@@ -41,22 +41,9 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
   
 ---
 
-# ## Approach and Philosophy
-
-# We believe that impactful engineering research arises from **rigorous fundamentals** connected to **technological relevance**.  
-# Our approach emphasizes:
-
-# - Integration of analytical, computational, and experimental insights.
-# - Open, reproducible research practices.
-# - Collaboration across disciplines — spanning applied mathematics and fluid dynamics
-
-# Our long-term vision is to **translate fundamental fluids into tangible technologies** that address challenges in energy, environment, and health.
-
-# ---
-
 ## Collaboration and Opportunities
 
-We collaborate with academic, industrial, and government partners on projects involving **complex fluids**, **particle-laden flows** and **turbulent suspensions**.  
+We collaborate with academic, industrial and government partners on projects involving **complex fluids** and **particle-laden flows** and **turbulent suspensions**.  
 For collaboration inquiries or student opportunities, please reach out via the [contact](/contact/) page.
 
 ---
