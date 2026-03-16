@@ -52,10 +52,6 @@ Prospective students interested in working with me are encouraged to [contact](/
   
 ## News
 
-{% if page.announcements.enabled %}
-  {% include announcements.liquid %}
-{% endif %}
-
 </div>
 </div>
 
