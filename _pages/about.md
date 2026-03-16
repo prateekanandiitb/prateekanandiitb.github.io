@@ -33,8 +33,6 @@ announcements:
 
 Our group studies the dynamics of particles suspended in fluid flows — a key problem in understanding the **microphysics** of complex suspensions. Such systems are found across nature and industry, ranging from blood and pulp suspensions all the way to Cirrus clouds that play a crucial role in the earth-atmosphere radiation budget. We use theoretical models and numerical simulations to investigate how particle motion and orientation influence the bulk properties of the suspension. Our research lies at the intersection of fluid mechanics, applied mathematics and computational physics, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
 
----
-
 ## Research Themes 
 (current, but not limited to)
 
@@ -42,15 +40,12 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 - **Migration of particles in channel flows**: Transverse migration of anisotropic particles, drops, vesicles in pressure-driven channel flows with rigid/flexible walls
 - **Motion of anisotropic particles in Turbulence**: Motion of anisotropic particles in turbulent flows
 - **Homotopy Analysis methods in fluid dynamics**: Going beyond perturbative methods for studying particle motion in fluid flows.
-  
----
 
 ## Open Positions
 I am always interested in motivated students who wish to work on fundamental problems in **fluid mechanics**.
 
 Prospective students interested in working with me are encouraged to [contact](/contact/) me with a brief description of their research interests and a CV.
 
----
 </div>
 
 <div style="flex:1; padding-left:20px; border-left:1px solid #ddd;">
