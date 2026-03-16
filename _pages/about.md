@@ -27,20 +27,18 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Our group studies the **dynamics of anisotropic particles** suspended in fluid flows — a key problem in understanding the **microphysics of complex suspensions**. Such systems are found across nature and industry, ranging from **blood and pulp suspensions** all the way to clouds that play a crucial role in the earth-atmosphere radiation budget.
-
-We use **theoretical models** and **numerical simulations** to investigate how particle orientation and motion influence **rheology, viscosity, and optical properties**. Our research lies at the intersection of **fluid mechanics, applied mathematics, and computational physics**, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
+Our group studies the dynamics of particles suspended in fluid flows — a key problem in understanding the **microphysics** of complex suspensions. Such systems are found across nature and industry, ranging from blood and pulp suspensions all the way to Cirrus clouds that play a crucial role in the earth-atmosphere radiation budget. We use theoretical models and numerical simulations to investigate how particle motion and orientation influence the bulk properties of the suspension. Our research lies at the intersection of fluid mechanics, applied mathematics and computational physics, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
 
 ---
 
-## Research Themes
+## Research Themes 
+(current, but not limited to)
 
-- **Hydrodynamics of droplets in a channel flow**  
-
-- **Motion of anisotropic particles in turbulence**  
+- **Microhydrodynamics & low Reynolds number flows**  
+- **Inertial migration of particles in channel flows**
+- **Motion of anisotropic particles in Turbulence**
+- **Beyond perturbation: Homotopy Analysis methods in fluid dynamics**
   
-- **Beyond perturbation: Homotopy Analysis methods in fluid dynamics**  
-
 ---
 
 ## Approach and Philosophy
