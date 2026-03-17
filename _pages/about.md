@@ -37,7 +37,8 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 - **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows.
 - **Migration of particles in channel flows**: Transverse migration of anisotropic particles, drops, vesicles in pressure-driven channel flows with rigid/flexible walls
 - **Motion of anisotropic particles in Turbulence**: Motion of anisotropic particles in turbulent flows
-- **Homotopy Analysis methods in fluid dynamics**: Going beyond perturbative methods for studying particle motion in fluid flows.
+- **Homotopy Analysis methods in fluid dynamics**: Going beyond perturbative methods for studying particle motion in fluid flows
+- 
 ---
 
 ## Open Positions
