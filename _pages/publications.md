@@ -13,7 +13,10 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
+## Journal & Conference Publications
+{% bibliography --query @article or @inproceedings %}
 
-{% bibliography %}
+## Thesis
+{% bibliography --query @phdthesis %}
 
 </div>
