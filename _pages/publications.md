@@ -13,10 +13,10 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-## Journal & Conference Publications
+<h2 style="font-weight:700; margin-top:2rem;">Journal Articles</h2>
 {% bibliography --query @article or @inproceedings %}
 
-## **Thesis**
+<h2 style="font-weight:700; margin-top:2rem;">Ph.D. Thesis</h2>
 {% bibliography --query @phdthesis %}
 
 </div>
