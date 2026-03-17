@@ -27,6 +27,12 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
+<img src="/assets/img/website_banner.png" 
+     alt="Research banner" 
+     style="width:100%; height:180px; object-fit:cover; border-radius:6px; margin-bottom:15px;">
+
+<hr style="margin-top:10px; margin-bottom:20px;">
+
 Our group studies the dynamics of particles suspended in fluid flows — a key problem in understanding the **microphysics** of complex suspensions. Such systems are found across nature and industry, ranging from blood and pulp suspensions all the way to Cirrus clouds that play a crucial role in the earth-atmosphere radiation budget. We use theoretical models and numerical simulations to investigate how particle motion and orientation influence the bulk properties of the suspension. Our research lies at the intersection of fluid mechanics, applied mathematics and computational physics, aiming to bridge microscopic particle behavior with macroscopic flow phenomena.
 
 ---
