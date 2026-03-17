@@ -27,7 +27,7 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-<img src="/assets/img/banner_cropped.png" 
+<img src="/assets/img/website_banner.png" 
      alt="spheroids in stresslet flow" 
      style="width:100%; height:auto; object-fit:cover; border-radius:6px; margin-bottom:15px;">
 
