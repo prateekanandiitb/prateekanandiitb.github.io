@@ -28,7 +28,7 @@ announcements:
 ---
 <div style="position:relative; margin-bottom:20px;">
 
-<img src="/assets/img/research_banner_latest.png" 
+<img src="/assets/img/banner_reduced_height.png" 
      alt="spheroids in stresslet flow" 
      style="width:100%; height:auto; object-fit:cover; border-radius:6px; margin-bottom:15px;">
 <div style="
