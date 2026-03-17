@@ -16,7 +16,7 @@ nav_order: 2
 ## Journal & Conference Publications
 {% bibliography --query @article or @inproceedings %}
 
-## Thesis
+## **Thesis**
 {% bibliography --query @phdthesis %}
 
 </div>
