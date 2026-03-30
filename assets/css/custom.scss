@@ -2,19 +2,30 @@
 ---
 
 .pi-heading {
-  font-weight: 700;
-  font-size: 1.7rem;
-  color: #1f3a5f;
-  border-bottom: 2px solid #e5e7eb;
-  padding-bottom: 4px;
+  font-weight: 800;              /* thicker */
+  font-size: 1.75rem;
+  color: #16324f;                /* deep academic blue */
+  letter-spacing: 0.4px;
+  margin-bottom: 0.6rem;
 }
 
 .students-heading {
-  font-weight: 600;
-  font-size: 1.4rem;
-  color: #2c4a6b;
+  font-weight: 700;              /* thicker than before */
+  font-size: 1.45rem;
+  color: #2c4a6b;                /* slightly lighter */
+  letter-spacing: 0.3px;
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
 }
 
-.post-header {
-  display: none;
+.pi-name {
+  font-weight: 800;
+  font-size: 1.35rem;
+  color: #16324f;   /* slightly darker blue */
+}
+
+.member-name {
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #2c4a6b;   /* lighter blue */
 }
