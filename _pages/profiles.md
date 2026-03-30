@@ -14,8 +14,10 @@ profiles:
     image_circular: false # crops the image to make it circular
 ---
 
-## Principal Investigator
+## <span class="pi-heading">Principal Investigator</span>
 
-<span style="font-size:1.8rem; font-weight:350;">Prateek Anand</span>
+<span class="person-name">Prateek Anand</span>
 
 Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
+
+## <span class="students-heading">Students</span>
