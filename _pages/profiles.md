@@ -18,4 +18,4 @@ profiles:
 
 <span style="font-size:1.8rem; font-weight:700;">Prateek Anand</span>
 
-I am an Assistant Professor at the Department of Mechanical Engineering, Indian Insitute of Technology Bombay. I am associated with the Thermal and Fluids Engineering (TFE) group. If you would like to work/collaborate/discuss, feel free to reach out to [me](/contact/).
+Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
