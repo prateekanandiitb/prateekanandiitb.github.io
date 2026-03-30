@@ -1,3 +1,13 @@
+**Prettier v3.8.1**
+[Playground link](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEwCkBaABJAtrhGLDNAXwB0oBhCAVwCcBnOHAQ3oBMsBLKMAG1oc4lAKIAPAA5wwRVlgAGkBswVYAbu26sARvxa8sjSNKwAKAO4ALBFn4QIk3gHMeULPFZgrLgHS4OAEpKdGwEDjwCWGIySkoAHg5udRx+VkZGAF5ycAh+LFwdDAAWHIA+SiwsROTU9KycsHYuKwwARgAGDqwrCHU4el19csqqrHQeADMcOiY4X25cVmcWWPcxqvj5K3o4SezUYBmVeYZ8gB8sXbSYZLgAfTOsUgoQCvWNzcXXRnowA+AR2UcwWSxWWEu11Yt36j3o+ReOTqGQOTU4GG+GBgjiRrH4MABQNmzF8txg+mer3en2qAHpWNSxhNwtxpmsNjUUgJ6qjmhgdBAOABPLAcDCTfTiLASuDiDCQQS4KAjD5jeJWACsyIa4D5ZOGb1GNK2PV2+xygOOIKekLgNzucIRr21B0YMF2MG8cDF-F4AGsPLKYBhdswYOVLcCSfqWC94vTGRzaZr3kamWgplaSbw3fRaLIIEwsOyadVJC7GnzGLQdDGCkUAEyB8TB3C0eAcJFuoX6A6TaDBxjcABecCQHV8AE5drgANwq0vp6WFtxutxZ+Y59357FFsiWreUias5fwhySXxpNeZTLSvHMYukAA04wzLLZpGZUA4-foj7TSaSImS7vv+yqqlUx7TFG8zCMY9DcJItzQGBi7xOW3IopW6LwC2XYwD2cB9pKSBtFgZGsO2EDzm8kbErBcDwYhyHuHGtJAQBr5YKBaycVBG7+NCAzaPwjCoaW6FGARvY5Es9DOLwWKOEgAAckjiLOy6wBgQ6juOU4zjRwHGtwFYgJM6R3uKeTCPQGCOAg5TxtwxmfPEjBLPw-CuTSACyQkIfeSCcTSEy-gU64wYJ8CBaJ4mLhy2xmoSBS+DaVx2tCDpPIiIAeOwKwEjk9x6KwUB+ki1wHFA54IAMEZHLgpLcOSsakPGDL8b+9iOJe6REDed6iasz5cTxFAQaWX4-iuJZobSHl4t5IV0hxk3TSec10kk6iMvGO3vPtyTvCAT4gI4LGMMgoDsPQEAWAACuwCBXSgeIWKwQpXWdOiDGAfpwDAADKrAEAAMrwcDIBZw1nRAOgAFYyDAADqgySMgICSKGAz9KdIC-V4APA5IXguMg25wGdzC4NwFN5lTICytICFRDAeIAPIs9ChYPRAQ4sZj4T48zwls3iAAqAxQFojHQ-ejNDlAzj6AAirQEDwPLsMgAjjDiEDLhqxrWtIDDzBnQAjibcAPXdkivSA6QYFAcDet6+Puqw3C+srND4KwmNLfjSsq3AACCMDutwOjtrbAwQ672sWyAVgwLg-Aoz48CMKTYBwEDL0tckLVCpjYAZPj6i0HAACS36EEDYAIUh4ffkD0lQ2bCtndj-NwGjrAYyg2OMbjUNneEHOTInXcgPwkz4zmAwwHbyxLMnjOk3M9CY2nGf49jvCo9wHAwFYyAqR0Z27Nb3C7Gvzgb93OvszoKOn+fyANmdtDMBLuhXrm0ZnAQo3phAcDBmVZwtBlhwAAGKFiWFHcmb0qIgBeEAA)
+<!-- prettier-ignore -->
+```sh
+--parser html
+```
+
+**Input:**
+<!-- prettier-ignore -->
+```html
 {%- comment -%}
 Course card include
 Expect a `course` variable in scope (when looping in teaching.md)
@@ -39,3 +49,55 @@ Expect a `course` variable in scope (when looping in teaching.md)
     </div>
   </div>
 </div>
+
+```
+
+**Output:**
+<!-- prettier-ignore -->
+```html
+{%- comment -%} Course card include Expect a `course` variable in scope (when
+looping in teaching.md) {%- endcomment -%}
+
+<div class="col mb-4">
+  <div class="card h-100 hoverable">
+    {% if course.image %}
+    <a href="{{ course.url | relative_url }}">
+      <img
+        src="{{ course.image | relative_url }}"
+        class="card-img-top"
+        alt="{{ course.title }}"
+      />
+    </a>
+    {% endif %}
+    <div class="card-body d-flex flex-column">
+      <h5 class="card-title">
+        <a
+          href="{{ course.url | relative_url }}"
+          class="stretched-link text-reset"
+          >{{ course.title }}</a
+        >
+      </h5>
+
+      {% if course.instructors %}
+      <p class="card-subtitle mb-2 text-muted" style="font-size: 0.9rem">
+        {% for inst in course.instructors %}{{ inst }}{% if forloop.last ==
+        false %}, {% endif %}{% endfor %}
+      </p>
+      {% endif %} {% if course.description %}
+      <p class="card-text" style="flex: 1 1 auto">{{ course.description }}</p>
+      {% endif %} {% if course.materials %}
+      <p style="margin-top: 8px; font-size: 0.9rem">
+        <i class="fas fa-folder-open"></i>
+        <small>
+          Materials: {% for m in course.materials %}
+          <a href="{{ m.url | relative_url }}" target="_blank" rel="noopener"
+            >{{ m.title }}</a
+          >{% if forloop.last == false %}, {% endif %} {% endfor %}
+        </small>
+      </p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+```
