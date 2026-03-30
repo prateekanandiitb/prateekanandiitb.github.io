@@ -16,6 +16,6 @@ profiles:
 
 ## Principal Investigator
 
-<span style="font-size:1.8rem; font-weight:700;">Prateek Anand</span>
+<span style="font-size:1.8rem; font-weight:350;">Prateek Anand</span>
 
 Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
