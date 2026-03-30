@@ -8,10 +8,10 @@ permalink: /
 #  align: right
 #  image: test.jpg
 #  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+# more_info: >
+#   <p>555 your office number</p>
+#   <p>123 your address street</p>
+#   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -21,16 +21,19 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
+
 # latest_posts:
 #  enabled: true
 #  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
+
 <div style="position:relative; margin-bottom:20px;">
 
 <img src="/assets/img/banner_reduced_height.png" 
      alt="spheroids in stresslet flow" 
      style="width:100%; height:auto; object-fit:cover; border-radius:6px; margin-bottom:15px;">
+
 <div style="
       position:absolute;
       bottom:10px;
@@ -50,7 +53,8 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 
 ---
 
-## Research Themes 
+## Research Themes
+
 (current, but not limited to)
 
 - **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows; better understanding of suspension mechanics.
@@ -61,6 +65,7 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 ---
 
 ## Open Positions
+
 I am always interested in motivated students who wish to work on fundamental problems in **fluid mechanics**.
 
 Prospective students are encouraged to [contact](/contact/) me with a brief description of their research interests and a CV.
