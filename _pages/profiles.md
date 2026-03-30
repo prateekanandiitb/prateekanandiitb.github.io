@@ -16,8 +16,8 @@ profiles:
 
 ## <span class="pi-heading">Principal Investigator</span>
 
-<span class="person-name">Prateek Anand</span>
+<span class="person-name pi-name">Prateek Anand</span>
 
 Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
 
-## <span class="students-heading">Students</span>
+## <span class="students-heading">Current Members</span>
