@@ -25,7 +25,7 @@ nav_order: 4
       <strong>Phone(Office):</strong>
       022-2576-7542
     </p>
-    
+
     <hr style="margin: 20px 0;">
 
     <!-- Professional / Academic Links -->
@@ -49,6 +49,7 @@ nav_order: 4
         <i class="fab fa-linkedin"></i> LinkedIn
       </a>
     </li>
+
   </ul>
     
   </div>
