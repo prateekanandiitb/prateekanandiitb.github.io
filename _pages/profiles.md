@@ -16,18 +16,18 @@ profiles:
 
 ## <span class="pi-heading">Principal Investigator</span>
 
-<span class="pi-name">Prateek Anand</span>
+<div class="pi-container">
 
-Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
+<div class="pi-image">
+  <img src="/assets/img/github_profile.jpg" alt="Profile">
+</div>
 
-## <span class="students-heading">Current Members</span>
+<div class="pi-text">
+  <span class="pi-name">Prateek Anand</span>
 
-<div class="students-grid">
-
-<span class="person-name">Student 1</span>  
-Description...
-
-<span class="person-name">Student 2</span>  
-Description...
+  I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. My research focuses on fluid–particle interactions, inertial migration, and transport phenomena.
+</div>
 
 </div>
+
+## <span class="students-heading">Current Members</span>
