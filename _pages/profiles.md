@@ -5,13 +5,13 @@ title: Group
 description:
 nav: true
 nav_order: 1
-profiles:
+# profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
-    image: github_profile.jpg
+ # - align: left
+ #   image: github_profile.jpg
     # content: about.md
-    image_circular: false # crops the image to make it circular
+ #   image_circular: false # crops the image to make it circular
 ---
 
 ## <span class="pi-heading">Principal Investigator</span>
