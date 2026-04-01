@@ -125,12 +125,6 @@ $max-content-width: {{ site.max_width }};
    Individual member
    ================================ */
 
-.member-item {
-  display: flex;
-  gap: 15px;
-  align-items: flex-start;
-}
-
 /* Photo */
 .member-photo img {
   width: 90px;
@@ -146,9 +140,9 @@ $max-content-width: {{ site.max_width }};
 
 /* Name */
 .member-name {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1.15rem;
-  color: #c2185b;
+  color: #000000;
   margin-bottom: 4px;
 }
 
