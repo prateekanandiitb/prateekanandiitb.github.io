@@ -32,3 +32,32 @@ nav_order: 1
 </div>
 
 ## <span class="students-heading">Current Members</span>
+
+<div class="members-card">
+
+<div class="members-grid">
+
+<div class="member-item">
+  <div class="member-photo">
+    <img src="/assets/img/member1.jpg" alt="Member 1">
+  </div>
+  <div class="member-info">
+    <div class="member-name">Member Name</div>
+    <div class="member-email">email@iitb.ac.in</div>
+    <div class="member-research">Research: Particle dynamics, microflows</div>
+  </div>
+</div>
+
+<div class="member-item">
+  <div class="member-photo">
+    <img src="/assets/img/member2.jpg" alt="Member 2">
+  </div>
+  <div class="member-info">
+    <div class="person-name member-name">Member Name</div>
+    <div class="member-email">email@iitb.ac.in</div>
+    <div class="member-research">Research: Turbulence, transport</div>
+  </div>
+</div>
+
+</div>
+</div>
