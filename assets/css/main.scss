@@ -64,3 +64,13 @@ $max-content-width: {{ site.max_width }};
   font-size: 1.2rem;
   color: #2c4a6b;   /* lighter blue */
 }
+
+.students-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+}
+
+.students-grid > * {
+  width: 48%;
+}
