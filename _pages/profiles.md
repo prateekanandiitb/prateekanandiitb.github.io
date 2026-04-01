@@ -21,3 +21,13 @@ profiles:
 Assistant Professor, Department of Mechanical Engineering, Indian Insitute of Technology Bombay.
 
 ## <span class="students-heading">Current Members</span>
+
+<div class="students-grid">
+
+<span class="person-name">Student 1</span>  
+Description...
+
+<span class="person-name">Student 2</span>  
+Description...
+
+</div>
