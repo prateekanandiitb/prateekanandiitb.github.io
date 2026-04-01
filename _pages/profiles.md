@@ -56,6 +56,9 @@ nav_order: 1
     <div class="person-name member-name">Member Name</div>
     <div class="member-email">email@iitb.ac.in</div>
     <div class="member-research">Research: Turbulence, transport</div>
+    <div class="member-links">
+      <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+    </div>
   </div>
 </div>
 
