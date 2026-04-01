@@ -32,7 +32,7 @@ $max-content-width: {{ site.max_width }};
 .pi-heading {
   font-weight: 800;              /* thicker */
   font-size: 1.75rem;
-  color: #16324f;                /* deep academic blue */
+  color: #0b2545;                
   letter-spacing: 0.4px;
   margin-bottom: 0.6rem;
 }
@@ -40,16 +40,16 @@ $max-content-width: {{ site.max_width }};
 .students-heading {
   font-weight: 700;              /* thicker than before */
   font-size: 1.45rem;
-  color: #2c4a6b;                /* slightly lighter */
+  color: #1b3a5f;                /* slightly lighter */
   letter-spacing: 0.3px;
   margin-top: 1.6rem;
   margin-bottom: 0.5rem;
 }
 
 .person-name {
-  font-weight: 700;              /* thicker */
+  font-weight: 600;              /* thicker */
   font-size: 1.25rem;
-  color: #1f3a5f;                /* deep academic blue */
+  color: #13315c;                
   letter-spacing: 0.2px;
 }
 
