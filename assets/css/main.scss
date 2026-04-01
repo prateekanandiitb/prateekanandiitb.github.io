@@ -32,7 +32,7 @@ $max-content-width: {{ site.max_width }};
 .pi-heading {
   font-weight: 800;              /* thicker */
   font-size: 1.75rem;
-  color: #9c1c54;                
+  color: #d63384;                
   letter-spacing: 0.4px;
   margin-bottom: 0.6rem;
 }
@@ -82,7 +82,7 @@ $max-content-width: {{ site.max_width }};
 .students-heading {
   font-weight: 800;              /* thicker than before */
   font-size: 1.75rem;
-  color: #9c1c54;                /* slightly lighter */
+  color: #d63384;                /* slightly lighter */
   letter-spacing: 0.3px;
   margin-top: 1.6rem;
   margin-bottom: 0.5rem;
@@ -164,7 +164,7 @@ $max-content-width: {{ site.max_width }};
 
 .member-links a {
   font-size: 0.9rem;
-  color: #c2185b;  
+  color: #000000;  
   text-decoration: none;
   font-weight: 500;
 }
