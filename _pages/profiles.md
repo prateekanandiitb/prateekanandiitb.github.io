@@ -26,7 +26,7 @@ nav_order: 1
 <div class="pi-text">
   <div class="pi-name">Prateek Anand</div>
 
-  I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. My research focuses on fluid–particle interactions, inertial migration, and transport phenomena.
+  I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. I am associated with the TFE (Thermal and Fluids Engineering) specialization. My research focuses on fluid-particle interactions, inertial migration, and transport phenomena.
 </div>
 </div>
 </div>
