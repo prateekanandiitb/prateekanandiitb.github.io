@@ -110,8 +110,15 @@ $max-content-width: {{ site.max_width }};
 
 .members-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;  /* 2 columns */
   gap: 25px;
+}
+
+/* Each member block */
+.member-item {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
 }
 
 /* ================================
