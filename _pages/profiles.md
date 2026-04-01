@@ -16,6 +16,7 @@ nav_order: 1
 
 ## <span class="pi-heading">Principal Investigator</span>
 
+<div class="pi-card">
 <div class="pi-container">
 
 <div class="pi-image">
@@ -27,7 +28,7 @@ nav_order: 1
 
   I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. My research focuses on fluid–particle interactions, inertial migration, and transport phenomena.
 </div>
-
+</div>
 </div>
 
 ## <span class="students-heading">Current Members</span>
