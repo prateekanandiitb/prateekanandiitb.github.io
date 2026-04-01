@@ -48,6 +48,16 @@ $max-content-width: {{ site.max_width }};
    PI Layout
    ================================ */
 
+.pi-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
 .pi-container {
   display: flex;
   align-items: flex-start;
