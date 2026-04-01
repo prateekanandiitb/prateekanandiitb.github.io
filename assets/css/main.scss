@@ -59,6 +59,27 @@ $max-content-width: {{ site.max_width }};
   color: #16324f;   
 }
 
+/* ================================
+   PI Layout
+   ================================ */
+
+.pi-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-bottom: 25px;
+}
+
+.pi-image img {
+  width: 180px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.pi-text {
+  flex: 1;
+}
+
 .member-name {
   font-weight: 600;
   font-size: 1.2rem;
