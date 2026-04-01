@@ -23,7 +23,7 @@ nav_order: 1
 </div>
 
 <div class="pi-text">
-  <span class="pi-name">Prateek Anand</span>
+  <div class="pi-name">Prateek Anand</div>
 
   I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. My research focuses on fluid–particle interactions, inertial migration, and transport phenomena.
 </div>
