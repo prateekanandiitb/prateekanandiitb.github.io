@@ -37,25 +37,9 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 0.6rem;
 }
 
-.students-heading {
-  font-weight: 800;              /* thicker than before */
-  font-size: 1.75rem;
-  color: #9c1c54;                /* slightly lighter */
-  letter-spacing: 0.3px;
-  margin-top: 1.6rem;
-  margin-bottom: 0.5rem;
-}
-
-.person-name {
-  font-weight: 600;              /* thicker */
-  font-size: 1.25rem;
-  color: #13315c;                
-  letter-spacing: 0.2px;
-}
-
 .pi-name {
   font-weight: 700;
-  font-size: 1.35rem;
+  font-size: 1.45rem;
   color: #16324f;   
 }
 
@@ -80,10 +64,30 @@ $max-content-width: {{ site.max_width }};
   flex: 1;
 }
 
+/* ================================
+   Students Layout
+   ================================ */
+
+.students-heading {
+  font-weight: 800;              /* thicker than before */
+  font-size: 1.75rem;
+  color: #9c1c54;                /* slightly lighter */
+  letter-spacing: 0.3px;
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.person-name {
+  font-weight: 600;              /* thicker */
+  font-size: 1.25rem;
+  color: #13315c;                
+  letter-spacing: 0.2px;
+}
+
 .member-name {
   font-weight: 600;
   font-size: 1.2rem;
-  color: #2c4a6b;   /* lighter blue */
+  color: #2c4a6b;   
 }
 
 .students-grid {
