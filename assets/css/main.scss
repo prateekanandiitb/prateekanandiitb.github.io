@@ -158,3 +158,17 @@ $max-content-width: {{ site.max_width }};
   font-size: 0.95rem;
   color: #333;
 }
+.member-links {
+  margin-top: 6px;
+}
+
+.member-links a {
+  font-size: 0.9rem;
+  color: #c2185b;  
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.member-links a:hover {
+  text-decoration: underline;
+}
