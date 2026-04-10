@@ -28,13 +28,13 @@ nav_order: 1
 
   I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. I am associated with the TFE (Thermal and Fluids Engineering) specialization. My research focuses on fluid-particle interactions, inertial migration, and transport phenomena.
   <div class="pi-links">
-  <a href="https://scholar.google.com/" target="_blank" title="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=qdlSY4IAAAAJ&hl=en" target="_blank" title="Google Scholar">
     <i class="ai ai-google-scholar"></i>
   </a>
-  <a href="https://www.linkedin.com/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/prateek-anand-78161b49/" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin"></i>
   </a>
-  <a href="/assets/pdf/cv.pdf" target="_blank" title="CV">
+  <a href="{{ '/assets/pdf/CV_Prateek_Anand.pdf' | relative_url }}" target="_blank" title="CV">
     <i class="fas fa-file-pdf"></i>
   </a>
 </div>
