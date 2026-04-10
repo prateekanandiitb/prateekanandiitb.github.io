@@ -93,6 +93,10 @@ $max-content-width: {{ site.max_width }};
 .pi-links a:hover {
   color: #b02a6a;
 }
+.pi-links {
+  display: flex;
+  align-items: center;
+}
 
 /* ================================
    Students Layout
