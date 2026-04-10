@@ -76,6 +76,25 @@ $max-content-width: {{ site.max_width }};
 }
 
 /* ================================
+   PI Links (icons)
+   ================================ */
+
+.pi-links {
+  margin-top: 10px;
+}
+
+.pi-links a {
+  margin-right: 12px;
+  font-size: 1.2rem;
+  color: #d63384;   /* al-folio magenta */
+  text-decoration: none;
+}
+
+.pi-links a:hover {
+  color: #b02a6a;
+}
+
+/* ================================
    Students Layout
    ================================ */
 
