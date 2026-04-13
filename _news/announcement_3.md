@@ -1,9 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Awarded ANRF Early Career Research Grant (ECRG)
+date: 2026-04-10
 inline: true
 related_posts: false
-published: false
+published: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The Suspension Mechanics Group has been awarded the prestigious **ANRF Early Career Research Grant (ECRG)** for performing research on droplet migation in microfluidics.
