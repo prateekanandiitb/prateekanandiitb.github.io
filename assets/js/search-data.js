@@ -43,10 +43,12 @@ ninja.data = [{
           section: "News",},{id: "news-invited-talk-inertial-migration-of-spheroids-in-channel-flow-at-the-3rd-msyim-2026-held-at-iit-kanpur",
           title: 'Invited talk Inertial migration of spheroids in channel flow at the 3rd MSYIM,...',
           description: "",
-          section: "News",},{id: "news-the-suspension-mechanics-group-has-been-awarded-the-prestigious-anrf-early-career-research-grant-ecrg-for-performing-research-on-droplet-migation-in-microfluidics",
-          title: 'The Suspension Mechanics Group has been awarded the prestigious ANRF Early Career Research...',
+          section: "News",},{id: "news-awarded-anrf-early-career-research-grant-ecrg",
+          title: 'Awarded ANRF Early Career Research Grant (ECRG)',
           description: "",
-          section: "News",},{id: "projects-particle-migration-in-channel-flows",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3.html";
+            },},{id: "projects-particle-migration-in-channel-flows",
           title: 'Particle migration in channel flows',
           description: "",
           section: "Projects",handler: () => {
