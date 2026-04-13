@@ -43,8 +43,8 @@ ninja.data = [{
           section: "News",},{id: "news-invited-talk-inertial-migration-of-spheroids-in-channel-flow-at-the-3rd-msyim-2026-held-at-iit-kanpur",
           title: 'Invited talk Inertial migration of spheroids in channel flow at the 3rd MSYIM,...',
           description: "",
-          section: "News",},{id: "news-awarded-anrf-early-career-research-grant-ecrg",
-          title: 'Awarded ANRF Early Career Research Grant (ECRG)',
+          section: "News",},{id: "news-received-the-anrf-early-career-research-grant-ecrg",
+          title: 'Received the ANRF Early Career Research Grant (ECRG)!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
