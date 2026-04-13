@@ -72,9 +72,9 @@ Recruiting PhD Students
 </div>
 
 <div class="open-positions-text">
-Two fully funded <strong>Teaching Assistantship (TAP)</strong> PhD positions are currently available in the Suspension Mechanics Group under ongoing <strong>Seed Grant</strong> and <strong>ANRF Early Career Research Grant (ECRG)</strong> projects.
+<strong>Two fully funded TAP PhD positions</strong> are available in the Suspension Mechanics Group under ongoing <strong>Institute Seed Grant</strong> and <strong>ANRF Early Career Research Grant (ECRG)</strong> supported projects.
 
-Motivated students interested in fluid mechanics, particle dynamics and transport phenomena are encouraged to apply.
+Candidates interested in fluid mechanics, particle dynamics, and transport phenomena are encouraged to get in touch.
 </div>
 
 <div class="open-positions-link">
