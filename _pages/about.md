@@ -65,8 +65,25 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 
 ---
 
-## Open Positions
+<div class="open-positions-banner">
 
-I am always interested in motivated students who wish to work on fundamental problems in **fluid mechanics**.
+<div class="open-positions-title">
+PhD Positions Open
+</div>
 
-Prospective students are encouraged to [contact](/contact/) me with a brief description of their research interests and a CV.
+<div class="open-positions-text">
+The Suspension Mechanics Group is actively recruiting motivated PhD students interested in  
+<strong>fluid mechanics, particle dynamics, and transport phenomena</strong>.
+</div>
+
+<div class="open-positions-link">
+<a href="/contact/">Apply / Contact →</a>
+</div>
+
+</div>
+
+<!-- ## Open Positions-->
+
+<!-- I am always interested in motivated students who wish to work on fundamental problems in **fluid mechanics**.-->
+
+<!-- Prospective students are encouraged to [contact](/contact/) me with a brief description of their research interests and a CV.-->
