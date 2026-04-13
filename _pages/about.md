@@ -68,7 +68,7 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 <div class="open-positions-banner">
 
 <div class="open-positions-title">
-PhD Positions Open
+Recruiting PhD Students
 </div>
 
 <div class="open-positions-text">
