@@ -57,7 +57,8 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 
 (current, but not limited to)
 
-- **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows; better understanding of suspension mechanics.
+- **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows; better understanding of suspension mechanics. **Selected references**- <a href="https://libjncir.jncasr.ac.in/xmlui/handle/123456789/3327" target="_blank">
+  PhD Thesis</a>, Prateek Anand, 2022.
 - **Migration of particles in channel flows**: Transverse migration of anisotropic particles, drops, vesicles in pressure-driven channel flows with rigid/flexible walls; useful for particle sorting applications in medical diagnostics, inductry etc.
 - **Motion of anisotropic particles in Turbulence**: Collision of anisotropic particles translating and rotating in turbulent flows; useful in industry and nature
 - **Hydrodynamics of squirmers and ciliated microorganisms**: Mathematical representation of biological taxis (responses to light, gravity, or chemicals) for the microorganisms
