@@ -57,12 +57,12 @@ Our group studies the dynamics of particles suspended in fluid flows — a key p
 
 (current, but not limited to)
 
-- **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows; better understanding of suspension mechanics. **Selected references**- <a href="https://libjncir.jncasr.ac.in/xmlui/handle/123456789/3327" target="_blank">
+- **Microhydrodynamics & low Reynolds number flows**: Studying the motion of particles, using applied mathematics, in canonical flows; better understanding of suspension mechanics. **References**- <a href="https://libjncir.jncasr.ac.in/xmlui/handle/123456789/3327" target="_blank">
   PhD Thesis</a>, Prateek Anand, 2022.
-- **Migration of particles in channel flows**: Transverse migration of anisotropic particles, drops, vesicles in pressure-driven channel flows with rigid/flexible walls; useful for particle sorting applications in medical diagnostics, inductry etc.
-- **Motion of anisotropic particles in Turbulence**: Collision of anisotropic particles translating and rotating in turbulent flows; useful in industry and nature
-- **Hydrodynamics of squirmers and ciliated microorganisms**: Mathematical representation of biological taxis (responses to light, gravity, or chemicals) for the microorganisms
-- **Homotopy Analysis methods in fluid dynamics**: Going beyond perturbative methods for studying particle motion in fluid flows; opens up new avenues for analytical studies in fluid dynamics
+- **Migration of particles in channel flows**: Transverse migration of anisotropic particles, drops, vesicles in pressure-driven channel flows with rigid/flexible walls; useful for particle sorting applications in medical diagnostics, inductry etc. **References**- 1) <a href="https://doi.org/10.1017/jfm.2023.817" target="_blank">Reference 1</a>, P. Anand & G. Subramanian, 2023. 2) <a href="https://doi.org/10.1017/jfm.2023.975" target="_blank">Reference 2</a>, P. Anand & G. Subramanian, 2023. 3) <a href="https://doi.org/10.1103/PhysRevLett.132.054002" target="_blank">Reference 3</a>, P. Anand & G. Subramanian, 2024.
+- **Motion of anisotropic particles in Turbulence**: Collision of anisotropic particles translating and rotating in turbulent flows; useful in industry and nature. **References**- 1) <a href="https://doi.org/10.1103/PhysRevLett.125.034501" target="_blank">Reference 1</a>, P. Anand & G. Subramanian, 2020. 2) <a href="https://doi.org/10.1017/jfm.2025.256" target="_blank">Reference 2</a>, P. Anand & G. Subramanian, 2025.
+- **Hydrodynamics of squirmers and ciliated microorganisms**: Mathematical representation of biological taxis (responses to light, gravity, or chemicals) for the microorganisms. A recent review in this field: <a href="https://doi.org/10.1146/annurev-fluid-121021-042929" target="_blank">ARFM</a>, Ishikawa, 2024.
+- **Homotopy Analysis methods in fluid dynamics**: Going beyond perturbative methods for studying particle motion in fluid flows; opens up new avenues for analytical studies in fluid dynamics. This method was first discussed in: <a href="https://doi.org/10.1201/9780203491164" target="_blank">Book</a>, S Liao, 2003. 
 
 ---
 
