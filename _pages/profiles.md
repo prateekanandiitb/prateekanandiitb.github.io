@@ -42,7 +42,8 @@ nav_order: 1
 ## <span class="students-heading">Current Members</span>
 
 <div class="members-card">
-<div class="members-grid">
+<div class="member-subheading"> Postdoctoral Fellows </div>
+<div class="members-grid-postdoc">
 <div class="member-item">
   <div class="member-photo">
     <img src="/assets/img/susmita.jpg" alt="Dr. Susmita Samanta">
