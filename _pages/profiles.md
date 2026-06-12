@@ -50,14 +50,23 @@ nav_order: 1
 
 <div class="member-item">
   <div class="member-photo">
-    <img src="/assets/img/member1.jpg" alt="Member 1">
+    <img src="/assets/img/susmita.jpg" alt="Dr. Susmita Samanta">
   </div>
   <div class="member-info">
-    <div class="member-name">Member Name</div>
-    <div class="member-email">email@iitb.ac.in</div>
-    <div class="member-research">Research: Particle dynamics, microflows</div>
+    <div class="member-name">Dr. Susmita Samanta</div>
+    <div class="member-position">Institute Postdoctoral Fellow</div>
+    <div class="member-email">susmita@iitb.ac.in</div>
+    <div class="member-research">Research: Motion of drops in channel flows</div>
     <div class="member-links">
-      <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+      <a href="GOOGLE_SCHOLAR_LINK" target="_blank" title="Google Scholar">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+      <a href="LINKEDIN_LINK" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="PERSONAL_WEBSITE_LINK" target="_blank" title="Website">
+        <i class="fas fa-globe"></i>
+      </a>
     </div>
   </div>
 </div>
