@@ -18,14 +18,11 @@ nav_order: 1
 
 <div class="pi-card">
 <div class="pi-container">
-
 <div class="pi-image">
   <img src="/assets/img/github_profile.jpg" alt="Profile">
 </div>
-
 <div class="pi-text">
   <div class="pi-name">Prateek Anand</div>
-
   I am an Assistant Professor at the Department of Mechanical Engineering, IIT Bombay. I am associated with the TFE (Thermal and Fluids Engineering) specialization. My research focuses on fluid-particle interactions, inertial migration, and transport phenomena.
   <div class="pi-links">
   <a href="https://scholar.google.com/citations?user=qdlSY4IAAAAJ&hl=en" target="_blank" title="Google Scholar">
@@ -37,7 +34,7 @@ nav_order: 1
   <a href="{{ '/assets/pdf/CV_Prateek_Anand.pdf' | relative_url }}" target="_blank" title="CV">
     <i class="fas fa-file-pdf"></i>
   </a>
-</div>
+  </div>
 </div>
 </div>
 </div>
@@ -45,9 +42,7 @@ nav_order: 1
 ## <span class="students-heading">Current Members</span>
 
 <div class="members-card">
-
 <div class="members-grid">
-
 <div class="member-item">
   <div class="member-photo">
     <img src="/assets/img/susmita.jpg" alt="Dr. Susmita Samanta">
@@ -58,7 +53,7 @@ nav_order: 1
     <div class="member-email">susmita@iitb.ac.in</div>
     <div class="member-research">Research: Motion of drops in channel flows</div>
     <div class="member-links">
-      <a href="GOOGLE_SCHOLAR_LINK" target="_blank" title="Google Scholar">
+      <a href="https://scholar.google.com/citations?user=VBdYoXsAAAAJ&hl=en" target="_blank" title="Google Scholar">
         <i class="ai ai-google-scholar"></i>
       </a>
       <a href="LINKEDIN_LINK" target="_blank" title="LinkedIn">
@@ -70,20 +65,5 @@ nav_order: 1
     </div>
   </div>
 </div>
-
-<div class="member-item">
-  <div class="member-photo">
-    <img src="/assets/img/member2.jpg" alt="Member 2">
-  </div>
-  <div class="member-info">
-    <div class="person-name member-name">Member Name</div>
-    <div class="member-email">email@iitb.ac.in</div>
-    <div class="member-research">Research: Turbulence, transport</div>
-    <div class="member-links">
-      <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
-    </div>
-  </div>
-</div>
-
 </div>
 </div>
