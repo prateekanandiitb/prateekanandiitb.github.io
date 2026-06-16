@@ -61,7 +61,7 @@ nav_order: 1
         <i class="fab fa-linkedin"></i>
       </a>
       <a href="https://www.researchgate.net/profile/Susmita-Samanta-4?ev=hdr_xprf" target="_blank" title="Website">
-        <i class="fab fa-researchgate"></i>
+        <i class="fas fa-globe"></i>
       </a>
     </div>
   </div>
