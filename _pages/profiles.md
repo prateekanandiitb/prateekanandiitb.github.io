@@ -51,17 +51,17 @@ nav_order: 1
   <div class="member-info">
     <div class="member-name">Dr. Susmita Samanta</div>
     <div class="member-position">Institute Postdoctoral Fellow</div>
-    <div class="member-email">susmita@iitb.ac.in</div>
+    <div class="member-email">susmitasamanta@iitb.ac.in</div>
     <div class="member-research">Research: Motion of drops in channel flows</div>
     <div class="member-links">
       <a href="https://scholar.google.com/citations?user=VBdYoXsAAAAJ&hl=en" target="_blank" title="Google Scholar">
         <i class="ai ai-google-scholar"></i>
       </a>
-      <a href="LINKEDIN_LINK" target="_blank" title="LinkedIn">
+      <a href="https://www.linkedin.com/in/susmita-samanta-52b2b828a/" target="_blank" title="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a>
-      <a href="PERSONAL_WEBSITE_LINK" target="_blank" title="Website">
-        <i class="fas fa-globe"></i>
+      <a href="https://www.researchgate.net/profile/Susmita-Samanta-4?ev=hdr_xprf" target="_blank" title="Website">
+        <i class="fab fa-researchgate"></i>
       </a>
     </div>
   </div>
