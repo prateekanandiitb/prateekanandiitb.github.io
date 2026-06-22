@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper published in JFM!
-date: 2026-04-10
+date: 2026-06-19
 inline: false
 related_posts: false
 published: true
