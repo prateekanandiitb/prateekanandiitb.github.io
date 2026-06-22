@@ -48,7 +48,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
-            },},{id: "news-paper-published-in-jfm",
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "news-paper-published-in-jfm",
           title: 'Paper published in JFM!',
           description: "",
           section: "News",handler: () => {
