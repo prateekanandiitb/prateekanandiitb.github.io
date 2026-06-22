@@ -48,6 +48,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
+            },},{id: "news-paper-published-in-jfm",
+          title: 'Paper published in JFM!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4.html";
             },},{id: "projects-particle-migration-in-channel-flows",
           title: 'Particle migration in channel flows',
           description: "",
