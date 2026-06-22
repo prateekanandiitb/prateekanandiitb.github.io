@@ -48,8 +48,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3.html";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-dr-susmita-samanta-has-joined-the-group-as-an-institute-postdoctoral-fellow",
+          title: 'Dr. Susmita Samanta has joined the group as an Institute Postdoctoral Fellow',
           description: "",
           section: "News",},{id: "news-paper-published-in-jfm",
           title: 'Paper published in JFM!',
