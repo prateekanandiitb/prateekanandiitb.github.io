@@ -139,8 +139,8 @@ $max-content-width: {{ site.max_width }};
 
 .members-grid-postdoc {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 20px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
   margin-bottom: 20px;
 }
 
