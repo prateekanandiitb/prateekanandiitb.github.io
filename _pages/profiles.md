@@ -80,7 +80,7 @@ nav_order: 1
       <a href="https://scholar.google.com/citations?user=5Lpp-VcAAAAJ&hl=en" target="_blank" title="Google Scholar">
         <i class="ai ai-google-scholar"></i>
       </a>
-      <a href="https://www.linkedin.com/in/susmita-samanta-52b2b828a/" target="_blank" title="LinkedIn">
+      <a href="" target="_blank" title="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a>
       <a href="https://www.researchgate.net/profile/Akanksha-Thakur-3" target="_blank" title="Website">
