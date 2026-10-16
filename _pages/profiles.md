@@ -44,6 +44,7 @@ nav_order: 1
 <div class="members-card">
 <div class="member-subheading"> Postdoctoral Fellows </div>
 <div class="members-grid-postdoc">
+  
 <div class="member-item">
   <div class="member-photo">
     <img src="/assets/img/susmita.jpg" alt="Dr. Susmita Samanta">
@@ -64,7 +65,31 @@ nav_order: 1
         <i class="fas fa-globe"></i>
       </a>
     </div>
+</div>
+
+<div class="member-item">
+  <div class="member-photo">
+    <img src="/assets/img/Akanksha.jpeg" alt="Dr. Akanksha Thakur">
   </div>
+  <div class="member-info">
+    <div class="member-name">Dr. Akanksha Thakur</div>
+    <div class="member-position">Institute Postdoctoral Fellow</div>
+    <div class="member-email">akankshathakur@iitb.ac.in</div>
+    <div class="member-research">Research: Stability in Ferrofluids</div>
+    <div class="member-links">
+      <a href="https://scholar.google.com/citations?user=5Lpp-VcAAAAJ&hl=en" target="_blank" title="Google Scholar">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/susmita-samanta-52b2b828a/" target="_blank" title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://www.researchgate.net/profile/Akanksha-Thakur-3" target="_blank" title="Website">
+        <i class="fas fa-globe"></i>
+      </a>
+    </div>
+</div>
+
+  
 </div>
 </div>
 </div>
